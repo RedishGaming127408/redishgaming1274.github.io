@@ -1,20 +1,18 @@
-const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+const CONFIG = { 
+    titleWeb: "Hi po :>",
+    introTitle: 'Hi po:>',
+    introDesc: `Guess what po, the note was set to specific person :> only u saw my notes hihi. this is a confession po:>, 
+    yes, Shane I like u po :>>`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
+    title: 'I just want you to know that i have a crush on you po I really admire your beauty po kasi :>>',
+    desc: 'Is it okay pu ba na we talk?',
+    btnYes: 'Yes! <33',
+    btnNo: 'Nope :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
-}
+    mess: 'Thank you po hehe :>>> ٩(◕‿◕)۶. Love you soo much ꒰ღ˘‿˘ற꒱❤⃛',
+    messDesc: 'redirect po kita sa fb ko hihi',
+    btnAccept: 'Okieee <3',
+    messLink: 'https://web.facebook.com/messages/t/jhian.manacpo' //your message link. E.g.: https://www.facebook.com/messages/t/100014188333536
+};
